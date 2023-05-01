@@ -4,7 +4,7 @@
 </div>
 
 <div class="header" align="center">
-  <img src="https://raw.githubusercontent.com/Midicix/Midicix/main/hacker.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/Midicix/Midicix/main/hacker.png" alt="hacker icons created by FreePik" width="100"/>
 </div>
 
 <div class="header" align="center">
